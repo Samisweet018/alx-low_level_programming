@@ -1,5 +1,3 @@
-Task 104
-
 #include "main.h"
 #include <stdio.h>
 
